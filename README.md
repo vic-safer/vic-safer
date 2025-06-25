@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 ## 🇫🇷 About me
-🎓 Ecole Polytechnique, Paris, France 
-💻 Currently working at [Mila](https://mila.quebec/en) (Quebec AI Institute)
+- Ecole Polytechnique, Paris, France 🎓 
+- Currently working at [Mila](https://mila.quebec/en) (Quebec AI Institute) 💻 
 
 ## 🧠 Interests
 - Interested in AI safety, privacy and data protection 🛡️
