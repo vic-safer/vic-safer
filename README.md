@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 ## ✉️ Contact
 GitHub: [vic‑safer](https://github.com/vic‑safer)  
 Email : victor.sana@polytechnique.edu
+
+## WIP
+- Optimal quantization procedure for AI models
