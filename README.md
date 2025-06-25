@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 ## 🔧 Skills
 - Python, PyTorch, NumPy, pandas, scikit-learn
 - Git, Jupyter, Markdown
+
+## ✉️ Contact
+GitHub: [vic‑safer](https://github.com/vic‑safer)  
+Email : victor.sana@polytechnique.edu
