@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 
 
-##
+## 🇫🇷 About me
 🎓 Ecole Polytechnique, Paris, France 
-##
-🔬 Passionate about deep learning and applied statistics   
+💻 Currently working at [Mila](https://mila.quebec/en) (Quebec AI Institute)
 
+## 🧠 Interests
+- Interested in AI safety, privacy and data protection 🛡️
 
-## 🔧 Tools & Skills
+## 🔧 Skills
 - Python, PyTorch, NumPy, pandas, scikit-learn
 - Git, Jupyter, Markdown
 
