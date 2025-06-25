@@ -13,15 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## 🇫🇷 About me
 - Ecole Polytechnique, Paris, France 🎓 
 - Currently working at [Mila](https://mila.quebec/en) (Quebec AI Institute) 💻 
 
 ## 🧠 Interests
-- Interested in AI safety, privacy and data protection 🛡️
+- AI safety and data privacy 🛡️
+- Computer Vision
 
 ## 🔧 Skills
 - Python, PyTorch, NumPy, pandas, scikit-learn
 - Git, Jupyter, Markdown
-
