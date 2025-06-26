@@ -25,9 +25,5 @@ Here are some ideas to get you started:
 - Python, PyTorch, NumPy, pandas, scikit-learn
 - Git, Jupyter, Markdown
 
-## ✉️ Contact
-GitHub: [vic‑safer](https://github.com/vic‑safer)  
-Email : victor.sana@polytechnique.edu
-
 ## WIP
 - Optimal quantization procedure for AI models
