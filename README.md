@@ -1,4 +1,4 @@
-# Hi there, I'm Victor Sana
+# Welcome! 👋
 
 ### Bachelor & MSc @Ecole Polytechnique | M.A. Statistics @UC Berkeley
 
@@ -10,8 +10,8 @@ As a Master's student specializing in Computer Science, Applied Mathematics, and
 
 | Contact Method | Link |
 | :--- | :--- |
-| 📧 **Email** | [victor.sana@berkeley.edu] |
-| 🔗 **LinkedIn** | [www.linkedin.com/in/victor-s-334867213] |
+| 📧 **Email** | [victor.sana@berkeley.edu](mailto:victor.sana@berkeley.edu) |
+| 🔗 **LinkedIn** | [Victor Sana Fernet](www.linkedin.com/in/victor-s-334867213)|
 
 ---
 
@@ -23,7 +23,14 @@ As a Master's student specializing in Computer Science, Applied Mathematics, and
 | **ML/Data Science** | PyTorch, Scikit-learn, Pandas |
 
 ---
+## ✨ Featured Projects
 
+| Project | Description | Technologies Key to Deployment | Status |
+| :--- | :--- | :--- |
+| **[Research Project: Membership Inference Security]** | Analyzed the promise of quantization of models’ weights for improving Membership Inference Security (MIS) of learning processes. Developed an algorithm to optimize MIS of learning processes through quantization, while guaranteeing performance: improved the average security metric on a classification task by a factor of 10,000 compared to an equivalent SotA quantizer | Python | private repo |
+| **[Research Project: Anomaly detection for images]** | Developed and trained convolutional auto-encoders to detect abnormal images from an industry-based dataset (MVTec)
+Reached an AUC of 0.95, showing the promises of convolutional auto-encoders compared to PCA-method and linear auto-encoders | Python | [Repo] |
+| **[Research Project: Multifractal modeling for forecasting in finance]** | Developed an algorithm to forecast market volatility and to price options. Improved the Markov-Switching Multifractal model (MSM) to better fit financial returns distribution | Python| [Repo] |
 ---
 
 ## 💡 Important Note on Projects & Work
