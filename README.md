@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-### Bachelor & MSc @Ecole Polytechnique | M.A. Statistics @UC Berkeley
+### Bachelor & MSc @Ecole Polytechnique (Paris, France) | M.A. Statistics @UC Berkeley (California, USA)
 
 ---
 
