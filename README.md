@@ -24,13 +24,16 @@ As a Master's student specializing in Computer Science, Applied Mathematics, and
 
 ---
 ## ✨ Featured Projects
+## ✨ Featured Projects
+
+*Showcasing projects that highlight complexity, deployment, and practical impact.*
 
 | Project | Description | Technologies Key to Deployment | Status |
-| :--- | :--- | :--- |
-| **[Research Project: Membership Inference Security]** | Analyzed the promise of quantization of models’ weights for improving Membership Inference Security (MIS) of learning processes. Developed an algorithm to optimize MIS of learning processes through quantization, while guaranteeing performance: improved the average security metric on a classification task by a factor of 10,000 compared to an equivalent SotA quantizer | Python | private repo |
-| **[Research Project: Anomaly detection for images]** | Developed and trained convolutional auto-encoders to detect abnormal images from an industry-based dataset (MVTec)
-Reached an AUC of 0.95, showing the promises of convolutional auto-encoders compared to PCA-method and linear auto-encoders | Python | [Repo] |
-| **[Research Project: Multifractal modeling for forecasting in finance]** | Developed an algorithm to forecast market volatility and to price options. Improved the Markov-Switching Multifractal model (MSM) to better fit financial returns distribution | Python| [Repo] |
+| :--- | :--- | :--- | :--- |
+| **[Research Project: Membership Inference Security]** | Analyzed the promise of quantization of models’ weights for improving Membership Inference Security (MIS). Developed an algorithm that **improved the average security metric by a factor of 10,000** compared to an equivalent SotA quantizer. | Python (PyTorch/TensorFlow, NumPy) | Private Repo (Details upon request) |
+| **[Research Project: Anomaly Detection for Images]** | Developed and trained **Convolutional Auto-Encoders** to detect abnormal images from an industry-based dataset (MVTec). Reached an **AUC of 0.95**, significantly outperforming PCA and linear auto-encoders. | Python (PyTorch), [Specific ML Lib] | [Repo] |
+| **[Research Project: Multifractal Modeling in Finance]** | Developed an algorithm to forecast market volatility and price options. Improved the **Markov-Switching Multifractal model (MSM)** to better fit complex financial returns distribution and enhance forecasting accuracy. | Python (Pandas, SciPy) | [Repo] |
+
 ---
 
 ## 💡 Important Note on Projects & Work
