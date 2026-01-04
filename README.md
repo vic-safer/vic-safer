@@ -10,7 +10,7 @@ As a Master's student specializing in Computer Science, Applied Mathematics, and
 
 | Contact Method | Link |
 | :--- | :--- |
-| 📧 **Email** | [firstname.lastname@berkeley.edu] |
+| 📧 **Email** | [firstname.lastname@berkeley.edu]() |
 | 🔗 **LinkedIn** | [Victor Sana Fernet](https://www.linkedin.com/in/victor-sana-fernet-334867213/) |
 
 ---
