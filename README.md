@@ -27,6 +27,7 @@ As a Master's student specializing in Computer Science, Applied Mathematics, and
 
 | Project | Description | Technologies Key to Deployment | Status |
 | :--- | :--- | :--- | :--- |
+| **AWS hackathon** | Built an agent to check for potential leakages of data/sensitive information coming from other agents' actions. | Python | [Repo](https://github.com/AmL-Dev/agenthack) |
 | **Class Project: Genetic Algorithm** | Developed a genetic algorithm to select the best features of any dataset, in order to predict the values of a target feature with regression methods. | Python | Private Repo |
 | **Research Project: Membership Inference Security** | Analyzed the promise of quantization of models’ weights for improving Membership Inference Security (MIS). Developed an algorithm that **improved the average security metric by a factor of 10,000** compared to an equivalent SotA quantizer. | Python (PyTorch), Slurm | Private Repo |
 | **Research Project: Anomaly Detection for Images** | Developed and trained **Convolutional Auto-Encoders** to detect abnormal images from an industry-based dataset (MVTec). Reached an **AUC of 0.95**, significantly outperforming PCA and linear auto-encoders. | Python (PyTorch) | [Paper](https://github.com/vic-safer/Anomaly-detection-in-images/blob/main/LRP_APM_Bauer_Sana.pdf) |
