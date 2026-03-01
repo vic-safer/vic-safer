@@ -4,7 +4,7 @@
 
 ---
 
-As a Master's student specializing in Computer Science, Applied Mathematics, and Statistics, I focus on translating advanced theoretical knowledge into deployable, high-impact AI/ML systems. I am passionate about the intersection of model rigor and production readiness, and am actively seeking roles (FDSE / Applied AI) where I can apply a robust software engineering and problem-solving mindset to real-world industrial challenges.
+As a Master's student specializing in Computer Science, Applied Mathematics, and Statistics, I focus on translating advanced theoretical knowledge into deployable, high-impact AI/ML systems. I am passionate about the intersection of model rigor and production readiness, and am actively seeking roles (FDSE / Data Science / Applied AI) where I can apply a robust software engineering and problem-solving mindset to real-world industrial challenges.
 
 ### 🎯 Let's Connect!
 
