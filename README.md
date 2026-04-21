@@ -27,6 +27,8 @@ Bridging the gap between advanced math and high-stakes production. Focusing on b
 
 | Project | Description | Technologies Key to Deployment | Status |
 | :--- | :--- | :--- | :--- |
+| **Class Project: Cloud classification** | Pre-trained a convolutional autoencoder on satellite images of Arctic, classified pixels (cloud VS ice)  | Python | Private Repo |
+| **Class Project: Traumatic brain injuries classification** | Detection of ciTBI for children, helping decide whether they need a CT scan (X-ray) or not| Python | Private Repo |
 | **AWS hackathon** | Built an agent to check for potential leakages of data/sensitive information coming from other agents' actions. | Python | [Repo](https://github.com/AmL-Dev/agenthack) |
 | **Class Project: Genetic Algorithm** | Developed a genetic algorithm to select the best features of any dataset, in order to predict the values of a target feature with regression methods. | Python | Private Repo |
 | **Research Project: Membership Inference Security** | Analyzed the promise of quantization of models’ weights for improving Membership Inference Security (MIS). Developed an algorithm that **improved the average security metric by a factor of 10,000** compared to an equivalent SotA quantizer. | Python (PyTorch), Slurm | Private Repo |
