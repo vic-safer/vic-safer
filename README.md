@@ -4,14 +4,7 @@
 
 ---
 
-Bridging the gap between advanced math and high-stakes production. Focusing on building software that works in the physical world. AV & Robotics, Defense & Cybersecurity. Currently building a platform to automate and centralize health data.
-
-### 🎯 Let's Connect!
-
-| Contact Method | Link |
-| :--- | :--- |
-| 📧 **Email** | [firstname.lastname@berkeley.edu]() |
-| 🔗 **LinkedIn** | [Victor Sana Fernet](https://www.linkedin.com/in/victor-sana-fernet-334867213/) |
+Bridging the gap between advanced math and high-stakes production. Focusing on building software that works in the physical world. Currently building a platform to automate and centralize health data.
 
 ---
 
