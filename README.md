@@ -4,7 +4,7 @@
 
 ---
 
-Bridging the gap between advanced math and high-stakes production. Focusing on building software that works in the physical world. Currently building a platform to automate and centralize health data.
+Focusing on building software that works in the physical world. Currently building a platform to automate and centralize health data.
 
 ---
 
