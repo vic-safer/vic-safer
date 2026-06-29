@@ -20,7 +20,7 @@ Focusing on building software that works in the physical world. Currently buildi
 
 | Project | Description | Technologies Key to Deployment | Status |
 | :--- | :--- | :--- | :--- |
-| **Capstone project** | Predicting blood-oxygen level across brain voxels via an fMRI as subjects listen to various podcasts | Python, Slurm, HF | Coming soon |
+| **Capstone project** | Predicting blood-oxygen level across brain voxels via an fMRI as subjects listen to various podcasts | Python, Slurm, HF | [Paper](https://1drv.ms/b/c/0083735b47f7eaab/IQCC8Kf_JI92Q6SlCQq5JqgQAYgZ5dpBTq2NNcw9zYLJZ1M?e=osw9yv) |
 | **Personal Project: RL for cybersecurity agent** | Built a Harbor RL environment around a deserialization CVE (CWE-502 cat.), to post-train an agent on teacher's trajectories | Python, Docker | [Repo](https://github.com/vic-safer/RL-on-cybersecurity-breach) |
 | **Class Project: Pixel classification** | Pre-trained a convolutional autoencoder on satellite images of Arctic, classified pixels (cloud VS ice)  | Python | Private Repo, [original paper](https://www.sciencedirect.com/science/article/pii/S003442570600438X) |
 | **Class Project: Traumatic brain injuries classification** | Detection of ciTBI for children, helping decide whether they need a CT scan (X-ray) or not| Python | Private Repo, [original paper](https://pubmed.ncbi.nlm.nih.gov/19758692/) |
